@@ -1,0 +1,35 @@
+[
+  
+  
+  {
+    "name": "Sirdal Port Suppliers",
+    "desc": "Fully fledged Web CRUD site based on different design patterns. Built using C#, HTML, SQL, JavaScript, Css .",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Ahmedkhlil12/Sirdal-WebSite"
+    }
+  },
+
+  {
+    "name": "Resturant Managment System",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Learning Platfrom",
+    "desc": "This website is specially build to Learn Some Programming Languages. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
